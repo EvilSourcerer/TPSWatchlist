@@ -16,13 +16,13 @@
       <link rel="stylesheet" href="../assets/css/styles.min.css">
       
       <!-- Global site tag (gtag.js) - Google Analytics -->
-      <script async src="https://www.googletagmanager.com/gtag/js?id=OBF"></script>
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-113204701-1"></script>
       <script>
          window.dataLayer = window.dataLayer || [];
          function gtag(){dataLayer.push(arguments);}
          gtag('js', new Date());
          
-         gtag('config', 'OBF');
+         gtag('config', 'UA-113204701-1');
       </script>
       <script>
         var page=1;
